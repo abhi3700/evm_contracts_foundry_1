@@ -6,9 +6,8 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 # PARTICULAR PURPOSE.
 
 # This program built for i386-apple-darwin11.3.0
- 
 
-# Make data base, printed on Tue Aug 23 09:51:01 2022
+# Make data base, printed on Tue Aug 23 10:15:15 2022
 
 # Variables
 
@@ -23,7 +22,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 # automatic
 @F = $(notdir $@)
 # makefile
-CURDIR := /Users/abhi3700/F/coding/github_repos/hello_foundry
+CURDIR := /Users/abhi3700/F/coding/github_repos/evm_contracts_foundry_1
 # makefile
 SHELL = /bin/sh
 # environment
@@ -37,7 +36,7 @@ __CFBundleIdentifier = com.microsoft.VSCode
 # environment
 VSCODE_CWD = /
 # environment
-PATH = /usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin
+PATH = /usr/bin:/bin:/usr/sbin:/sbin
 # environment
 LaunchInstanceID = 58E59231-26D0-42FC-8F42-3D6D72FD9479
 # environment
@@ -49,7 +48,7 @@ SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.so8jtaN0bx/Listeners
 # automatic
 %F = $(notdir $%)
 # environment
-PWD = /Users/abhi3700/F/coding/github_repos/hello_foundry
+PWD = /Users/abhi3700/F/coding/github_repos/evm_contracts_foundry_1
 # environment
 ORIGINAL_XDG_CURRENT_DESKTOP = undefined
 # environment
@@ -71,9 +70,6 @@ VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 # environment
 XPC_FLAGS = 0x0
 # default
- 
-make: *** No rule to make target `all'.  Stop.
-
 MAKE = $(MAKE_COMMAND)
 # default
 MAKECMDGOALS := all
@@ -144,9 +140,9 @@ VSCODE_PID = 559
 
 # Directories
 
-# . (device 16777234, inode 23390374): 15 files, no impossibilities.
+# . (device 16777234, inode 23390374): 16 files, no impossibilities.
 
-# 15 files, no impossibilities in 1 directories.
+# 16 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -218,6 +214,8 @@ GNUmakefile:
 # strcache size: total = 0 / max = 0 / min = 4096 / avg = 0
 # strcache free: total = 0 / max = 0 / min = 4096 / avg = 0
 
-# Finished Make data base on Tue Aug 23 09:51:01 2022
+# Finished Make data base on Tue Aug 23 10:15:15 2022
 
  
+make: *** No rule to make target `all'.  Stop.
+
