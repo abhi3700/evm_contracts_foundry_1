@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/abhi3700/F/coding/github_repos/hello_foundry'
+make: Leaving directory `/Users/abhi3700/F/coding/github_repos/hello_foundry'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
